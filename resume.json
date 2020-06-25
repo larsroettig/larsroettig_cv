@@ -1,0 +1,91 @@
+{
+  "basics": {
+    "name": "Lars Roettig",
+    "label": "Software Engineer E-Commerce",
+    "picture": "larsroettig.jpeg",
+    "email": "hello@larsroettig.de",
+    "website": "https://larsroettig.dev",
+    "summary": "Over 9 years of development experience working with different clients over the world. I develop Magento Projects as Software Engineer at TechDivision GmbH. As Magento PWA Studio Maintainer i try help with any problem or feature request. In my Free time I really like to bask in natures glory right here in the south of Bavaria. I also like cycling, hiking or sometimes just relax somewhere to free the mind and gain new ideas.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "larsroettig",
+        "url": "https://github.com/larsroettig"
+      },
+      {
+        "network": "Twitter",
+        "username": "LarsRoettig",
+        "url": "https://twitter.com/larsroettig"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "TechDivision GmbH",
+      "position": "Software Engineer E-Commerce",
+      "startDate": "2015-06-01",
+      "summary": "Tech stack: Magento 2, PHP, React, JavaScript"
+    }, 
+    {
+      "company": "TechDivision GmbH",
+      "position": "Junior Software Engineer ",
+      "startDate": "2013-06-01",
+      "endDate": "2015-06-01",
+      "summary": "Tech stack: PHP, Magento, JavaScript"
+    }, 
+    {
+      "company": "SportIdent GmbH",
+      "position": "Training as IT specialist for application development",
+      "startDate": "2010-06-01",
+      "endDate": "2013-05-25",
+      "summary": "Tech stack: PHP, C#, C++"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Magento Community Maintainer",
+      "awarder": "Adobe"
+    }, 
+    {
+      "title": "Top 50 Magento Contributor 2017",
+      "awarder": "Adobe"
+    },
+    {
+      "title": "Magento 2 Certified Professional Developer",
+      "awarder": "Adobe"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "level": "Master",
+      "keywords": [
+        "Javascript",
+        "TypeScript",
+        "Babel",
+        "React/Redux",
+        "Webpack"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Master",
+      "keywords": [
+        "PHP",
+        "Java",
+        "MySQL",
+        "Redis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "name": "German",
+      "level": "Native speaker"
+    },
+    {
+      "name": "English",
+      "level": "Proficient"
+    }
+  ]
+}

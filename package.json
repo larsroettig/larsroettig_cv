@@ -1,0 +1,15 @@
+{
+  "name": "larsroettig-cv",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "resume serve --port ${PORT:-4000} --theme rocketspacer"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "resume-cli": "1.2.3"
+  }
+}
